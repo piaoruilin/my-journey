@@ -1,0 +1,161 @@
+Blood,Aches and Pain,Abdomen
+Blood,Breathing Problems,Shortness of breath 
+Blood,Difficulty,Breathing in
+Blood,Gastrointestinal Problems,Poor appetite
+Blood,Problems with Skin,Rash
+Blood,Unwell,Fatigue 
+Blood,Unwell,Headache 
+Blood,Unwell,Poor appetite
+Brain ,Aches and Pain,Chest
+Brain ,Aches and Pain,Head
+Brain ,Aches and Pain,"Head, Severe"
+Brain ,Bleeding,Nose
+Brain ,Bleeding,Urine
+Brain ,Breathing Problems,Shortness of breath
+Brain ,Bruising,General 
+Brain ,Difficulty,Breathing in
+Brain ,Difficulty,Vision
+Brain ,Gastrointestinal Problems,Vomiting
+Brain ,Heart Problems,Irregular beating
+Brain ,Nausea,Interferes with eating
+Brain ,Nausea,Mild
+Brain ,Nausea,Unrelieved with medication
+Brain ,Problems with Urine,Blood
+Brain ,Unwell,Headache
+Brain ,Unwell,"Headache, Severe"
+Brain ,Unwell,Tiredness
+Brain ,Vision Problems,General
+Brain ,Weakness,General
+Brain ,Weight change,Gain
+Breast,Aches and Pain,Bone
+Breast,Aches and Pain,Chest
+Breast,Aches and Pain,Head
+Breast,Breathing Problems,Shortness of breath 
+Breast,Cough,General
+Breast,Difficulty,Breathing in
+Breast,Difficulty,Vision
+Breast,Gastrointestinal Problems,Constipation 
+Breast,Itching,Skin
+Breast,Nausea,Interferes with eating
+Breast,Nausea,Mild
+Breast,Nausea,Unrelieved with medication
+Breast,Problems with Skin,Itching
+Breast,Problems with Skin,Yellowish
+Breast,Problems with Stool,Constipation
+Breast,Swelling,Feet 
+Breast,Unwell,"Fatigue, Unable to carry-on self-care"
+Breast,Unwell,Headache
+Breast,Unwell ,Confusion 
+Breast,Vision Problems,Blurry
+Colorectal,Aches and Pain,Abdomen
+Colorectal,Aches and Pain,Bone
+Colorectal,Aches and Pain,Head
+Colorectal,Difficulty ,Vision 
+Colorectal,Gastrointestinal Problems,Constipation
+Colorectal,Gastrointestinal Problems,Diarrhoea
+Colorectal,Gastrointestinal Problems,Poor appetite
+Colorectal,Gastrointestinal Problems,Vomiting
+Colorectal,Problems with Skin,Yellowish
+Colorectal,Problems with Stool,Constipation
+Colorectal,Problems with Stool,Diarrhoea
+Colorectal,Swelling,Feet 
+Colorectal,Swelling,Hands
+Colorectal,Unwell,Confusion 
+Colorectal,Unwell,Fatigue
+Colorectal,Unwell,Headache
+Colorectal,Unwell,Poor appetite
+Colorectal,Vision Problems,Blurry
+Colorectal,Weakness,General
+Colorectal,Weight Change,Loss
+Esophagus,Aches and Pain,Chest
+Esophagus,Difficulty,Swallowing
+Esophagus,Gastrointestinal Problems,Acid-reflux 
+Esophagus,Weight Change,Loss
+Liver,Gastrointestinal Problems,Poor appetite
+Liver,Gastrointestinal Problems,Vomiting 
+Liver,Nausea,Interferes with eating
+Liver,Nausea,Mild
+Liver,Nausea,Unrelieved with medication
+Liver,Problems with Skin,Yellowish
+Liver,Swelling,Abdomen
+Liver,Unwell,Fatigue
+Liver,Unwell,Poor appetite
+Liver,Weakness,General
+Liver,Weight Change,Loss
+Lungs,Aches and Pain,Chest
+Lungs,Aches and Pain,Head
+Lungs,Breathing Problems,Shortness of breath 
+Lungs,Difficulty,Breathing in
+Lungs,Difficulty ,Vision 
+Lungs,Nausea,Interferes with eating
+Lungs,Nausea,Mild
+Lungs,Nausea,Unrelieved with medication
+Lungs,Problems with Skin,Itching
+Lungs,Swelling,Feet 
+Lungs,Swelling,Hands
+Lungs,Unwell,Dizziness 
+Lungs,Unwell,"Fatigue, Unable to carry-on self-care"
+Lungs,Unwell,Headache
+Lungs,Vision Problems,Blurry
+Lungs,Weight Change,Loss
+Neuroendocrine ,Breathing Problems,"Shortness of breath, Rapid"
+Neuroendocrine ,Cough,General
+Neuroendocrine ,Gastrointestinal Problems,Diarrhoea
+Neuroendocrine ,Problems with Stool,Diarrhoea
+Neuroendocrine ,Problems with Urine,Increased frequency
+Neuroendocrine ,Swelling,Ankles
+Neuroendocrine ,Swelling,Feet 
+Neuroendocrine ,Unwell,Dizziness
+Neuroendocrine ,Unwell,Fatigue
+Neuroendocrine ,Weakness,General
+Neuroendocrine ,Weight Change,Loss
+Ovarian,Gastrointestinal Problems,"Poor appetite, Persistent"
+Ovarian,Gastrointestinal Problems,Vomitting
+Ovarian,Nausea,Interferes with eating
+Ovarian,Nausea,Mild
+Ovarian,Nausea,Unrelieved with medication
+Ovarian,Problems with Stool,"Constipation, Persistent"
+Ovarian,Swelling,Abdomen 
+Pancreas,Gastrointestinal Problems,Poor appetite
+Pancreas,Gastrointestinal Problems,Vomiting
+Pancreas,Itching,Skin
+Pancreas,Itching,Skin
+Pancreas,Nausea,Interferes with eating
+Pancreas,Nausea,Mild
+Pancreas,Nausea,Unrelieved with medication
+Pancreas,Numbness,Feet 
+Pancreas,Numbness,Feet 
+Pancreas,Numbness,Hands
+Pancreas,Problems with Skin,Itching
+Pancreas,Problems with Skin,Itching
+Pancreas,Problems with Urine,Dark coloured
+Pancreas,Problems with Urine,Increased frequency
+Pancreas,Swelling,General
+Pancreas,Unwell,"Fatigue, Unable to carry-on self-care"
+Pancreas,Unwell,Poor appetite
+Peritoneum ,Breathing Problems,Shortness of breath
+Peritoneum ,Difficulty,Breathing in
+Peritoneum ,Gastrointestinal Problems,Constipation
+Peritoneum ,Gastrointestinal Problems,Diarrrhoea
+Peritoneum ,Gastrointestinal Problems,Early fullness
+Peritoneum ,Gastrointestinal Problems,Poor appetite
+Peritoneum ,Nausea,Interferes with eating
+Peritoneum ,Nausea,Mild
+Peritoneum ,Nausea,Unrelieved with medication
+Peritoneum ,Problems with Stool,Constipation
+Peritoneum ,Problems with Stool,Diarrhoea
+Peritoneum ,Problems with Urine,Increased frequency
+Peritoneum ,Swelling,General
+Peritoneum ,Unwell,Poor appetite
+Peritoneum ,Weight change,Loss
+Renal cell carcinoma ,Bleeding,Urine
+Skin,Itching,Skin
+Skin ,Abnormalities,Change in size of mole 
+Skin ,Bleeding,General
+Stomach,Gastrointestinal Problems,Early fullness
+Stomach,Gastrointestinal Problems,Vomiting
+Stomach,Nausea,Interferes with eating
+Stomach,Nausea,Mild
+Stomach,Nausea,Unrelieved with medication
+Stomach,Swelling,Abdomen
+Stomach,Weight change,Loss

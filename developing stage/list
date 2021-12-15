@@ -1,0 +1,22 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Thu Oct 29 16:20:02 2020
+
+@author: piaoruilin
+"""
+
+test_sheet = "/Users/piaoruilin/Desktop/python/Hackathon Data - Other Symptom.csv"
+
+import csv
+import operator
+
+huhu = []
+
+sample = open('/Users/piaoruilin/Desktop/python/Hackathon Data - Other Symptom.csv', 'r')
+csv1 = csv.reader(sample, delimiter=',')     
+sort = sorted(csv1,key=operator.itemgetter(0))
+
+
+    
+    

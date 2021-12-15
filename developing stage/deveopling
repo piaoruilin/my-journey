@@ -1,0 +1,83 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Nov  3 23:02:19 2020
+
+@author: piaoruilin
+"""
+
+import csv
+import operator 
+
+user_choice = [0, 'Female', 'Breast', ['Breast, Metastatic'], ['Avastin'], 1]
+
+#Getting rid of 1st and 2nd element in user_choice array
+index = [0,1]
+new_user_choice = [i for i in user_choice if user_choice.index(i) not in index]
+
+#Sorting out drug symptoms and putting them into an array
+drugs_list = []
+drugs = open("/Users/piaoruilin/Desktop/python/Hackathon Data - Drug Symptom-2.csv", 'r')
+csv1 = csv.reader(drugs, delimiter=',')
+sort = sorted(csv1, key=operator.itemgetter(0))
+for eachline in sort :
+    drug_array = eachline
+    drugs_list.append(drug_array)
+    
+#Sorting out cancer symptoms and putting them into an array
+cancer_list = []
+cancer = open("/Users/piaoruilin/Desktop/python/Hackathon Data - Cancer Symptom.csv", 'r')
+csv2 = csv.reader(cancer, delimiter=',')
+sort2 = sorted(csv2, key=operator.itemgetter(0))
+for eachline_1 in sort2 :
+    cancer_array = eachline_1
+    cancer_list.append(cancer_array)
+    
+#Sorting out other symptoms and putting them into an array
+others_list = []
+others = open("/Users/piaoruilin/Desktop/python/Hackathon Data - Other Symptom.csv", 'r')
+csv3 = csv.reader(others, delimiter=',')
+sort3 = sorted(csv3, key=operator.itemgetter(0))
+for eachline_2 in sort3 :
+    other_array = eachline_2
+    others_list.append(other_array)
+
+#Comparing user choice with cancer and drugs symptoms and sorting by the area of cancer
+new_cancer_list=[]
+new_drugs_list = []
+for i in range(len(drugs_list)):
+    if new_user_choice[0]==drugs_list[i][0] and new_user_choice[1][0]==drugs_list[i][1]:
+        new_drugs_list.append(drugs_list[i])
+'''
+day1 = [['0','1','1','1','0','5','1','0','1'],['0','1','1','1','0','0','78','0','0']]
+day2 = [['0','0','1','0','0','0','0','0','0'],['1','0','0','0','1','1','0','1','0']]
+symptom = ['a','b','c','d','e','f','g','h','i','j']
+daytest = []
+
+for i in range(len(day1)) :
+    dayt = day1[i][i]+day2[i][i]
+    daytest.append(dayt)
+    maxi = max(daytest)
+'''
+    
+'''
+    for n in range(len(symptom)):
+        index=daytest.index(maxi)
+print(symptom[index])'''
+
+
+with open('/Users/piaoruilin/Desktop/python/months/Test - January.csv', newline='') as jan:
+    reader = csv.reader(jan)
+    january = [row for row in reader]
+v = january[0][1] +january[0][2]
+w = sum(january[0])
+print(v)
+
+
+
+
+
+
+
+
+

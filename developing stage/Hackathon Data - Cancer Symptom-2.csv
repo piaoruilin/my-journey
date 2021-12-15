@@ -1,0 +1,415 @@
+Bladder,Aches and Pain,"Lower Back, Left"
+Bladder,Aches and Pain,"Lower Back, Right"
+Bladder,Aches and Pain,Urination
+Bladder,Bleeding,Urine
+Bladder,Problems with Urine,Blood
+Bladder,Problems with Urine,Increased frequency
+Bladder,Problems with Urine,"Pain, Burning"
+Blood,Aches and Pain,Abdomen
+Blood,Breathing Problems,Shortness of breath 
+Blood,Cough,Persistent
+Blood,Difficulty,Breathing in
+Blood,Fever ,37 degrees Celsius
+Blood,Gastrointestinal Problems,Poor appetite
+Blood,Infection,Frequent
+Blood,Problems with Skin,Rash
+Blood,Problems with Skin,Red blotches
+Blood,Swelling,Armpit
+Blood,Swelling,Groin
+Blood,Swelling,Lymph nodes 
+Blood,Swelling,Neck
+Blood,Swelling,"Upper Abdomen, Left"
+Blood,Unwell,Chest discomfort 
+Blood,Unwell,Fatigue 
+Blood,Unwell,Headache 
+Blood,Unwell,Poor appetite
+Blood,Unwell,"Sweatiness, Night"
+Blood,Weight Change,Loss
+Blood,Yellowed,Head
+Brain,Abnormalities,Impotence
+Brain,Abnormalities,Memory loss
+Brain,Abnormalities,Mood change 
+Brain,Abnormalities,Personality change
+Brain,Abnormalities,Sores heal slowly
+Brain,Abnormalities,Wounds will not heal
+Brain,Aches and Pain,Chest
+Brain,Aches and Pain,Head
+Brain,Aches and Pain,"Head, Severe"
+Brain,Aches and Pain ,Feet 
+Brain,Aches and Pain ,Legs
+Brain,Bleeding,Blood spots in eyes
+Brain,Bleeding,Nose
+Brain,Bleeding,Urine
+Brain,Breathing Problems,Shortness of breath
+Brain,Bruising,General 
+Brain,Difficulty,Breathing in
+Brain,Difficulty,Speaking 
+Brain,Difficulty,Vision
+Brain,Gastrointestinal Problems,Vomiting
+Brain,Heart Problems,Heart attack
+Brain,Heart Problems,Irregular beating
+Brain,Infection,Yeast
+Brain,Itching,Skin
+Brain,Menstruation ,Change in cycle 
+Brain,Nausea,Interferes with eating
+Brain,Nausea,Mild
+Brain,Nausea,Unrelieved with medication
+Brain,Numbness,Feet 
+Brain,Numbness,General
+Brain,Numbness,Hands
+Brain,Numbness,Legs
+Brain,Pounding,Chest 
+Brain,Pounding,Ears 
+Brain,Pounding,Neck 
+Brain,Problems with Breast,Overproduction of breast milk
+Brain,Problems with Breast,Underproduction of breast milk 
+Brain,Problems with Skin,"Colour change, Dark"
+Brain,Problems with Skin,"Flushing, Face"
+Brain,Problems with Skin,Itching
+Brain,Problems with Urine,Blood
+Brain,Seizure ,-
+Brain,Sores,"General, Slow healing"
+Brain,Stroke ,-
+Brain,Tingling ,Feet 
+Brain,Tingling ,Hands 
+Brain,Unwell,Concentration loss
+Brain,Unwell,Headache
+Brain,Unwell,"Headache, Severe"
+Brain,Unwell,Impotence
+Brain,Unwell,Memory loss
+Brain,Unwell,Mood change 
+Brain,Unwell,Nervousness 
+Brain,Unwell,Personality change
+Brain,Unwell,Sweatiness
+Brain,Unwell,Tiredness
+Brain,Unwell,Trouble Sleeping 
+Brain,Vision Problems,Blood spots in eyes
+Brain,Vision Problems,General
+Brain,Weakness,General
+Brain,Weight change,Gain
+Breast,Abnormalities,Breast thickening
+Breast,Abnormalities,Change in colour of breast
+Breast,Abnormalities,Change in shape of breast
+Breast,Abnormalities,Change in size of breast
+Breast,Abnormalities,Dimple on breast
+Breast,Abnormalities,Inverted nipple 
+Breast,Abnormalities,Underarm thickening 
+Breast,Abnormalities,Waist length increase
+Breast,Aches and Pain,Bone
+Breast,Aches and Pain,Breast
+Breast,Aches and Pain,Chest
+Breast,Aches and Pain,Fracture
+Breast,Aches and Pain,Head
+Breast,Aches and Pain,Nipple 
+Breast,Aches and Pain,Underarm 
+Breast,Bleeding,Nipple
+Breast,Breathing Problems,Shortness of breath 
+Breast,Cough,General
+Breast,Difficulty,Breathing in
+Breast,Difficulty,Moving
+Breast,Difficulty,Vision
+Breast,Discharge,"Nipple, Blood"
+Breast,Gastrointestinal Problems,Constipation 
+Breast,Irritation,Breast Skin
+Breast,Itching,Breast
+Breast,Itching,Skin
+Breast,Lump,Armpit
+Breast,Lump,Breast
+Breast,Lump ,"Breast, Painless"
+Breast,Nausea,Interferes with eating
+Breast,Nausea,Mild
+Breast,Nausea,Unrelieved with medication
+Breast,Problems with Breast,Bloody discharge from nipple
+Breast,Problems with Breast,Colour change
+Breast,Problems with Breast,Dimple
+Breast,Problems with Breast,Flaky skin
+Breast,Problems with Breast,"Flaky skin, Nipple"
+Breast,Problems with Breast,Inverted nipple
+Breast,Problems with Breast,Irritation
+Breast,Problems with Breast,Itching
+Breast,Problems with Breast,"Lumps, Pain"
+Breast,Problems with Breast,"Lumps, Painless"
+Breast,Problems with Breast,Pulling
+Breast,Problems with Breast,Redness
+Breast,Problems with Breast,Shape change
+Breast,Problems with Breast,Size change
+Breast,Problems with Breast,Swelling
+Breast,Problems with Breast,Thickening
+Breast,Problems with Skin,"Flaky, Breast"
+Breast,Problems with Skin,"Flaky, Nipple"
+Breast,Problems with Skin,Itching
+Breast,Problems with Skin,"Thickening skin, Breast"
+Breast,Problems with Skin,"Thickening skin, Underarm"
+Breast,Problems with Skin,Yellowish
+Breast,Problems with Stool,Constipation
+Breast,Pulling,Breast 
+Breast,Redness,Breast
+Breast,Redness,Nipple 
+Breast,Swelling,Breast
+Breast,Swelling,Feet 
+Breast,Swelling,Lymph nodes 
+Breast,Unwell,"Fatigue, Unable to carry-on self-care"
+Breast,Unwell,Headache
+Breast,Unwell ,Confusion 
+Breast,Unwell ,Memory loss 
+Breast,Vision Problems,Blurry
+Breast,Yellowed,Skin
+Cervical,Aches and Pain,Back
+Cervical,Aches and Pain,During intercouse
+Cervical,Aches and Pain,Pelvis
+Cervical,Bleeding,After intercourse
+Cervical,Bleeding,After menopause
+Cervical,Discharge,Vaginal 
+Cervical,Menstrual Problems,"Bleeding, after menopause"
+Cervical,Menstrual Problems,"Menses, Heavy "
+Cervical,Menstrual Problems,"Menses, Light"
+Cervical,Problems with Urine,Vaginal discharge
+Colorectal,Aches and Pain,Abdomen
+Colorectal,Aches and Pain,Bone
+Colorectal,Aches and Pain,Fracture
+Colorectal,Aches and Pain,Head
+Colorectal,Bleeding,Rectum
+Colorectal,Bloating,Abdomen
+Colorectal,Cramps,Abdomen
+Colorectal,Difficulty,Speaking
+Colorectal,Difficulty ,Vision 
+Colorectal,Gastrointestinal Problems,Abdominal bloating
+Colorectal,Gastrointestinal Problems,Abdominal cramps
+Colorectal,Gastrointestinal Problems,Constipation
+Colorectal,Gastrointestinal Problems,Diarrhoea
+Colorectal,Gastrointestinal Problems,Poor appetite
+Colorectal,Gastrointestinal Problems,Unsatisfcatory bowel movement
+Colorectal,Gastrointestinal Problems,Vomiting
+Colorectal,Problems with Skin,Yellowish
+Colorectal,Problems with Stool,Constipation
+Colorectal,Problems with Stool,Diarrhoea
+Colorectal,Problems with Stool,Narrow Stool 
+Colorectal,Swelling,Feet 
+Colorectal,Swelling,Hands
+Colorectal,Unwell,Confusion 
+Colorectal,Unwell,Fatigue
+Colorectal,Unwell,Headache
+Colorectal,Unwell,Poor appetite
+Colorectal,Unwell ,Faint
+Colorectal,Unwell ,Memory loss
+Colorectal,Vision Problems,Blurry
+Colorectal,Weakness,General
+Colorectal,Weight Change,Loss
+Colorectal,Yellowed,Eyes
+Colorectal,Yellowed,Skin
+Esophagus,Aches and Pain,Chest
+Esophagus,Cough,Persistent
+Esophagus,Difficulty,Swallowing
+Esophagus,Gastrointestinal Problems,Acid-reflux 
+Esophagus,Gastrointestinal Problems,Indigestion 
+Esophagus,Heart Problems,Heartburn 
+Esophagus,Unwell,Chest discomfort 
+Esophagus,Unwell,Hoarseness 
+Esophagus,Weight Change,Loss
+Liver,Abnormalities,Breast enlargement
+Liver,Abnormalities,Srinking testicles
+Liver,Aches and Pain,"Shoulder Blade, Right"
+Liver,Aches and Pain,"Upper Abdomen, Right"
+Liver,Fever ,37 degrees Celsius
+Liver,Gastrointestinal Problems,Poor appetite
+Liver,Gastrointestinal Problems,Vomiting 
+Liver,Lump,"Ribs, Hard"
+Liver,Nausea,Interferes with eating
+Liver,Nausea,Mild
+Liver,Nausea,Unrelieved with medication
+Liver,Problems with Breast,"Size change, Increase"
+Liver,Problems with Skin,Yellowish
+Liver,Swelling,Abdomen
+Liver,Unwell,Fatigue
+Liver,Unwell,Poor appetite
+Liver,Weakness,General
+Liver,Weight Change,Loss
+Liver,Yellowed,Skin
+Lungs,Abnormalities,Waist length increase
+Lungs,Aches and Pain,Backbone
+Lungs,Aches and Pain,Bone 
+Lungs,Aches and Pain,Chest
+Lungs,Aches and Pain,Head
+Lungs,Aches and Pain,Ribs
+Lungs,Bleeding,Cough
+Lungs,Breathing Problems,Shortness of breath 
+Lungs,Breathing Problems,Wheezing (breathing out)
+Lungs,Cough,Blood
+Lungs,Cough,Persistent
+Lungs,Cramps,Muscle 
+Lungs,Difficulty,Breathing in
+Lungs,Difficulty,Breathing out
+Lungs,Difficulty,Speaking 
+Lungs,Difficulty ,Vision 
+Lungs,Lump ,Collarbone 
+Lungs,Lump ,Neck 
+Lungs,Nausea,Interferes with eating
+Lungs,Nausea,Mild
+Lungs,Nausea,Unrelieved with medication
+Lungs,Numbness,Arms 
+Lungs,Numbness,Legs 
+Lungs,Phlegm,Brown
+Lungs,Problems with Skin,Itching
+Lungs,Problems with Skin,Yellowish
+Lungs,Swelling,Feet 
+Lungs,Swelling,Hands
+Lungs,Unwell,Dizziness 
+Lungs,Unwell,"Fatigue, Unable to carry-on self-care"
+Lungs,Unwell,Headache
+Lungs,Unwell,Hoarseness
+Lungs,Vision Problems,Blurry
+Lungs,Weakness ,General
+Lungs,Weight Change,Loss
+Lungs,Yellowed,Eyes
+Lungs,Yellowed,Skin
+Neuroendocrine,Flushing,Face
+Neuroendocrine ,Breathing Problems,"Shortness of breath, Rapid"
+Neuroendocrine ,Breathing Problems,Wheezing (breathing out)
+Neuroendocrine ,Cough,General
+Neuroendocrine ,Cramps,General
+Neuroendocrine ,Difficulty,Breathing out
+Neuroendocrine ,Flushing,Neck
+Neuroendocrine ,Gastrointestinal Problems,Diarrhoea
+Neuroendocrine ,Gastrointestinal Problems,Thirst
+Neuroendocrine ,Heart Problems,Palpitation
+Neuroendocrine ,Problems with Skin,Lesions
+Neuroendocrine ,Problems with Stool,Diarrhoea
+Neuroendocrine ,Problems with Urine,Increased frequency
+Neuroendocrine ,Swelling,Ankles
+Neuroendocrine ,Swelling,Feet 
+Neuroendocrine ,Unwell,Dizziness
+Neuroendocrine ,Unwell,Faint
+Neuroendocrine ,Unwell,Fatigue
+Neuroendocrine ,Unwell,Hungry 
+Neuroendocrine ,Unwell,Sweatiness
+Neuroendocrine ,Unwell,Thirst
+Neuroendocrine ,Weakness,General
+Neuroendocrine ,Weight Change,Gain
+Neuroendocrine ,Weight Change,Loss
+Ovary,Abnormalities,"Waist length increase, Persistent"
+Ovary,Aches and Pain,After menstruation 
+Ovary,Aches and Pain,Before menstruation 
+Ovary,Aches and Pain,During intercourse
+Ovary,Aches and Pain,"Lower Back, Dull"
+Ovary,Aches and Pain,Pelvis
+Ovary,Aches and Pain,"Thighs, Dull"
+Ovary,Bleeding,Abdomen
+Ovary,Bloating ,"Abdomen, Persistent"
+Ovary,Difficulty,Emptying bladder
+Ovary,Gastrointestinal Problems,"Constipation, Persistent "
+Ovary,Gastrointestinal Problems,"Poor appetite, Persistent"
+Ovary,Gastrointestinal Problems,Vomitting
+Ovary,Lump,Abdomen
+Ovary,Menstrual Problems,Change in cycle
+Ovary,Menstrual Problems,"Pain, After menses"
+Ovary,Menstrual Problems,"Pain, Before menses"
+Ovary,Nausea,Interferes with eating
+Ovary,Nausea,Mild
+Ovary,Nausea,Unrelieved with medication
+Ovary,Pressure,Abdomen 
+Ovary,Pressure,"Lower back, Persistent"
+Ovary,Pressure,"Pelvis, Persistant"
+Ovary,Problems with Stool,"Constipation, Persistent"
+Ovary,Problems with Urine,Difficult urination
+Ovary,Problems with Urine,"Increased frequency, Persistent"
+Ovary,Swelling,Abdomen 
+Ovary,Unwell,"Poor appetite, Persistent"
+Ovary,Weakness,Persistent
+Pancreas,Abnormalites,Regarding stools
+Pancreas,Abnormalities,Sores heal slowly
+Pancreas,Abnormalities,Wounds will not heal
+Pancreas,Aches and Pain,Back
+Pancreas,Aches and Pain,"Upper Abdomen, Left"
+Pancreas,Aches and Pain,"Upper Abdomen, Right"
+Pancreas,Aches and Pain ,Feet 
+Pancreas,Aches and Pain ,Legs
+Pancreas,Bleeding,Blood clots under skin
+Pancreas,Bruising,Blood clots under skin
+Pancreas,Gastrointestinal Problems,Poor appetite
+Pancreas,Gastrointestinal Problems,Vomiting
+Pancreas,Infection,Yeast
+Pancreas,Itching,Skin
+Pancreas,Itching,Skin
+Pancreas,Nausea,Interferes with eating
+Pancreas,Nausea,Mild
+Pancreas,Nausea,Unrelieved with medication
+Pancreas,Numbness,Feet 
+Pancreas,Numbness,Feet 
+Pancreas,Numbness,Hands
+Pancreas,Numbness,Legs
+Pancreas,Problems with Skin,"Colour change, Dark"
+Pancreas,Problems with Skin,Itching
+Pancreas,Problems with Skin,Itching
+Pancreas,Problems with Stool,"Stools, abnormal"
+Pancreas,Problems with Urine,Dark coloured
+Pancreas,Problems with Urine,Increased frequency
+Pancreas,Sores,Bed sores
+Pancreas,Sores,"General, Slow healing"
+Pancreas,Swelling,General
+Pancreas,Tingling ,Feet 
+Pancreas,Tingling ,Hands 
+Pancreas,Unwell,Depression
+Pancreas,Unwell,"Fatigue, Unable to carry-on self-care"
+Pancreas,Unwell,Poor appetite
+Peritoneum,Pressure ,General
+Peritoneum ,Bleeding,Rectum
+Peritoneum ,Bleeding,Vaginal 
+Peritoneum ,Bloating,General
+Peritoneum ,Breathing Problems,Shortness of breath
+Peritoneum ,Cramps,General
+Peritoneum ,Difficulty,Breathing in
+Peritoneum ,Gastrointestinal Problems,Constipation
+Peritoneum ,Gastrointestinal Problems,Diarrrhoea
+Peritoneum ,Gastrointestinal Problems,Early fullness
+Peritoneum ,Gastrointestinal Problems,Indigestion
+Peritoneum ,Gastrointestinal Problems,Poor appetite
+Peritoneum ,Nausea,Interferes with eating
+Peritoneum ,Nausea,Mild
+Peritoneum ,Nausea,Unrelieved with medication
+Peritoneum ,Problems with Stool,Constipation
+Peritoneum ,Problems with Stool,Diarrhoea
+Peritoneum ,Problems with Urine,Increased frequency
+Peritoneum ,Swelling,General
+Peritoneum ,Unwell,Abdominal discomfort 
+Peritoneum ,Unwell,Poor appetite
+Peritoneum ,Weight change,Gain
+Peritoneum ,Weight change,Loss
+Kidney,Abnormalities,Enlarged veins in right testicle
+Kidney,Aches and Pain,"Lower Back, Left"
+Kidney,Aches and Pain,"Lower Back, Right"
+Kidney,Bleeding,Urine
+Kidney,Fever,Persistent
+Kidney,Gastrointestinal Problems,"Poor appetite, Persistent"
+Kidney,Lump ,"Lower Back, Left"
+Kidney,Lump ,"Lower Back, Right"
+Kidney,Pressure,"Lower Back, Left"
+Kidney,Pressure,"Lower Back, Right"
+Kidney,Swelling,Ankles
+Kidney,Swelling,Legs
+Kidney,Unwell,Faint
+Kidney,Unwell,Poor appetite
+Skin,Itching,Skin
+Skin ,Abnormalities,Change in size of mole 
+Skin ,Bleeding,General
+Skin ,Lump ,"Unusual, New"
+Skin ,Problems with Skin,Colour change
+Skin ,Problems with Skin,"Rash, Head"
+Skin ,Problems with Skin,Reddish scaly patch 
+Skin ,Red Moles,Face
+Skin ,Red Moles,Neck 
+Skin ,Red Moles,Scalp 
+Skin ,Sores,"Skin, Hands"
+Skin ,Sores,"Skin, Neck"
+Stomach,Aches and Pain,Upper abdomen 
+Stomach,Bleeding,Vomit
+Stomach,Gastrointestinal Problems,Early fullness
+Stomach,Gastrointestinal Problems,Indigestion
+Stomach,Gastrointestinal Problems,Vomiting
+Stomach,Gastrointestinal Problems,"Vomitting, Blood"
+Stomach,Heart Problems,Heartburn
+Stomach,Nausea,Interferes with eating
+Stomach,Nausea,Mild
+Stomach,Nausea,Unrelieved with medication
+Stomach,Swelling,Abdomen
+Stomach,Unwell,Abdominal discomfort
+Stomach,Weight change,Loss

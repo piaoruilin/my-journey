@@ -1,0 +1,127 @@
+Abnormalities,Hair loss,0
+Abnormalities,Loss of taste,1
+Abnormalities,Memory loss,1
+Aches and Pain,Breast,1
+Aches and Pain,"Breast, Mild",0
+Aches and Pain,Calf,0
+Aches and Pain,"Calf, Mild",0
+Aches and Pain,Chest,1
+Aches and Pain,"Chest, Mild",0
+Aches and Pain,Ear,1
+Aches and Pain,"Ear, Mild",0
+Aches and Pain,Eye,1
+Aches and Pain,"Eye, Mild",0
+Aches and Pain,Face,1
+Aches and Pain,"Face, Mild",0
+Aches and Pain,Feet,1
+Aches and Pain,"Feet, Mild",0
+Aches and Pain,Gum,1
+Aches and Pain,"Gum, Mild",0
+Aches and Pain,Hands,1
+Aches and Pain,"Hands,Mild",0
+Aches and Pain,Head,0
+Aches and Pain,"Head, Mild",0
+Aches and Pain,Legs,0
+Aches and Pain,"Legs, Mild",0
+Aches and Pain,Lower Abdomen,0
+Aches and Pain,"Lower Abdomen, Left",0
+Aches and Pain,"Lower Abdomen, Left, Mild",0
+Aches and Pain,"Lower Abdomen, Mild",0
+Aches and Pain,"Lower Abdomen, Right",0
+Aches and Pain,"Lower Abdomen, Right, Mild",0
+Aches and Pain,"Lower Back, Left",0
+Aches and Pain,"Lower Back, Left, Mild",0
+Aches and Pain,"Lower Back, Right",0
+Aches and Pain,"Lower Back, Right, Mild",0
+Aches and Pain,Neck ,0
+Aches and Pain,"Neck, Mild",0
+Aches and Pain,Pelvis,1
+Aches and Pain,"Pelvis, Mild",0
+Aches and Pain,Rectum,1
+Aches and Pain,"Rectum, Mild",1
+Aches and Pain,Shoulder,0
+Aches and Pain,"Shoulder, Mild",0
+Aches and Pain,Skin ,1
+Aches and Pain,"Skin, Mild",0
+Aches and Pain,Stomach,0
+Aches and Pain,"Stomach, Mild",0
+Aches and Pain,Tooth,1
+Aches and Pain,"Tooth, Mild",0
+Aches and Pain,"Upper Abdomen, Left",0
+Aches and Pain,"Upper Abdomen, Left, Mild",0
+Aches and Pain,"Upper Abdomen, Right",0
+Aches and Pain,"Upper Abdomen, Right, Mild",0
+Aches and Pain,Upper Adomen,0
+Aches and Pain,"Upper Adomen, Mild",0
+Aches and Pain,"Upper Back, Left",0
+Aches and Pain,"Upper Back, Left, Mild",0
+Aches and Pain,"Upper Back, Right",0
+Aches and Pain,"Upper Back, Right, Mild",0
+Acne,Breast,0
+Acne,Ear,0
+Acne,Eye,0
+Acne,Face,0
+Acne,Feet,0
+Acne,Hands,0
+Acne,Head,0
+Acne,Legs,0
+Acne,Stomach,0
+Bleeding,Breasts,1
+Bleeding,Ears,1
+Bleeding,Eye,1
+Bleeding,Fingernails,1
+Bleeding,Gum,1
+Bleeding,Head,1
+Bleeding,Nose,1
+Bleeding,Stools,1
+Bleeding,Urine,1
+Breathing Problems,Shortness of Breath,1
+Cramps,Arms,0
+Cramps,Back ,0
+Cramps,Calf,0
+Cramps,Feet,0
+Cramps,Fingers,1
+Cramps,Shoulder,0
+Difficulty,Arm control,1
+Difficulty,Breathing in,1
+Difficulty,Hearing,1
+Difficulty,Leg control,1
+Difficulty,Remembering,1
+Difficulty,Sleeping,1
+Difficulty,Smelling,0
+Difficulty,Swallowing,0
+Difficulty,Urination,1
+Difficulty,Walking,1
+Difficulty,Writing,1
+Discharge,Ear,1
+Discharge,Nasal,1
+Discharge,Penis,1
+Discharge,Vaginal ,1
+Fever,37 degrees Celsius,1
+Fever,38 degrees Celsius or higher,1
+Gastrointestinal Problems,Acid-reflux,1
+Gastrointestinal Problems,Bloating,1
+Gastrointestinal Problems,Constipation ,0
+Gastrointestinal Problems,Diarrhoea,0
+Gastrointestinal Problems,Dry mouth ,0
+Heart Problems,Heartburn,1
+Nausea,Mild,0
+Problems with Stool,Constipation ,0
+Problems with Stool,Diarrhoea,1
+Ringing ,Ears,1
+Sores,Throat,0
+Unwell,Anxiety,1
+Unwell,Chills,1
+Unwell,Confusion,1
+Unwell,Dizziness,1
+Unwell,Dry mouth ,0
+Unwell,Excessive sleepiness,1
+Unwell,Hair loss,0
+Unwell,Lightheaded,1
+Unwell,Stress,0
+Unwell,Sweatiness,0
+Unwell,Tiredness,0
+Vision Problems,Blindness,1
+Vision Problems,Blurry,1
+Vision Problems,Double vision,1
+Weakness,General,
