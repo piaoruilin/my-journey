@@ -3,7 +3,7 @@
 ### MyJourney is a mobile app for Roche's patients for accurate data tracking to enhance patient treatment in both efficiency and accuracy.
 
 ## **LINKS**
-[![](thumbnail.gif)](https://www.youtube.com/watch?v=tK9UoIOmZs8)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tK9UoIOmZs8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 * [Code4Life Website](https://www.roche.com/careers/our-locations/asia/malaysia/apac-ssc-kl/inter-university-it-hackathon.htm)
 
 ## 💡 **Inspiration**
